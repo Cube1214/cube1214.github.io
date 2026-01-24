@@ -4,6 +4,13 @@
 +++++++ Provide Website Penetration Testing Reports and results to understand
 +++++++ Provice Full Devices, firewalls, access points configuration to collect the logs and events to maintain a full high security infrastructure while 
 +++++++ Configurate their Firewall to meet the Policies and industry Standards (Support credits card payment FIPAA, )
+
+ Use Case Examples for Compliance
+11.1. Compliance Relevant User Cases: PCI_DSS
+11.2. Compliance Relevant user cases: GDPR, HIPPA, and SOX
+
+
+
 +++++++ Set up of Internet Information Services (IIS) logs, Apache Logs or Website Logs
 
 E-Book name: Don't Do what I did preparing the SOC Certification, title
